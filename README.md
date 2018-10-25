@@ -1,2 +1,2 @@
-# UTDAVbcInteractiveVisualization and Dashboard
+# UTDAVbc Interactive Visualization and Dashboard
 Week 15: Visualization Dashboard - Belly Button Biodiversity Dashboard
