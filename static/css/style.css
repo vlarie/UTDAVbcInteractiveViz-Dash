@@ -1,0 +1,39 @@
+#dashboard {
+    width: 90%!important;
+}
+
+#jumboContainer {
+    width: 100%!important;
+}
+
+#jumbo {
+    background: url('./bacteria_by_filterforgedotcomWideLowConstrast.png') no-repeat center center;
+}
+
+td {
+    padding: 3px;
+}
+
+.panel {
+    border-color: #4E6172;
+}
+
+#panHead {
+    color: white;
+    background-color: #4E6172;
+    border-color: #4E6172;
+}
+
+.well {
+    background-color: rgb(159, 177, 192);
+}
+
+h1 {
+	font: Tahoma, Geneva, sans-serif;
+    color: #D57500!important;
+    text-shadow: 2px 2px 2px white; 
+}
+
+p {
+    color: #DBCA69!important;
+}
