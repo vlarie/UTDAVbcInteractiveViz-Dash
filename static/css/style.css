@@ -29,17 +29,14 @@ td {
 }
 
 h1 {
-	/* font: Tahoma, Geneva, sans-serif;
     color: #D57500!important;
-    text-shadow: 2px 2px 2px white;  */
-    color: transparent;
     background: #D57500;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    background-clip: text;
-    text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
+    text-shadow: 0px 3px 3px rgba(0,0,0,.5);
+    font-family: Tahoma;
 }
 
 p {
     color: #DBCA69!important;
+    text-shadow: 0px 3px 3px rgba(0,0,0,.5);
+    font-family: Tahoma;
 }
