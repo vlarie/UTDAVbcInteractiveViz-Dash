@@ -8,6 +8,7 @@
 
 #jumbo {
     background: url('./bacteria_by_filterforgedotcomWideLowConstrast.png') no-repeat center center;
+    border-radius: 0%!important;
 }
 
 td {
